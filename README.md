@@ -2,14 +2,17 @@
 
 ## Riviste
 
-[IEEE Spectrum](http://spectrum.ieee.org/)
+[IEEE Spectrum](http://spctmog/)
+
 IEEE Spectrum è una rivista di news scientifiche e tecnologiche.
 
 [Coelum
 Astronomia](https://www.joomag.com/en/newsstand/coelum-astronomia/M0359960001450695574)
+
 Coelum Astronomia è una rivista mensile di divulgazione astronomica.
 
 [Asimmetrie](http://www.asimmetrie.it/)
+
 Asimmetrie è la rivista semestrale di divulgazione dell'Istituto
 Nazionale di Fisica Nucleare.
 
@@ -17,10 +20,12 @@ Nazionale di Fisica Nucleare.
 
 [The Feynman Lectures on
 Physics](http://www.feynmanlectures.caltech.edu/)
+
 Versioni online delle lezioni universitarie di Feynman.
 
 [PSI
 Lectures](http://www.perimeterinstitute.ca/training/perimeter-scholars-international/psi-lectures)
+
 Le lezioni e i corsi del Perimeter Scholars International disponibili
 per studenti e interessati.
 
@@ -31,47 +36,47 @@ CS](https://medium.freecodecamp.com/438-free-online-programming-computer-science
 
 ## Libri
 
-[[Without air]{.underline}](http://www.withouthotair.com/)
+[Without air](http://www.withouthotair.com/)
 
 Descrizione da aggiungere
 
-[[Being no
-one]{.underline}](https://mitpress.mit.edu/books/being-no-one)
+[Being no
+one](https://mitpress.mit.edu/books/being-no-one)
 
 Descrizione da aggiungere
 
 ## Siti
 
-[[How to become a good theoretical
+[How to become a good theoretical
 physicist](https://www.staff.science.uu.nl/~gadda001/goodtheorist/)
 
 Piano di studi per Fisica Teorica offerto da Gerard 't Hooft (con
 risorse, in inglese).
 
-[[Online Mathematics
-Textbooks]](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+[Online Mathematics
+Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
 Una lista di libri di testo universitari pubblicamente disponibile su
 algebra, calcolo, analisi matematica, algoritmi e fisica (in inglese).
 
-[[Una mappa di alcune teorie moderne della fisica
-teorica]{.underline}](https://www.quantamagazine.org/20150803-physics-theories-map/)
+[Una mappa di alcune teorie moderne della fisica
+teorica](https://www.quantamagazine.org/20150803-physics-theories-map/)
 
-[[Un sito di visualizzazione per imparare la
-statistica]{.underline}](http://students.brown.edu/seeing-theory/index.html)
+[Un sito di visualizzazione per imparare la
+statistica](http://students.brown.edu/seeing-theory/index.html)
 
-[[Un sito di visualizzazione per imparare
-algoritmi]{.underline}](https://visualgo.net/en)
+[Un sito di visualizzazione per imparare
+algoritmi](https://visualgo.net/en)
 
-[[Kaggle]{.underline}](https://www.kaggle.com/)
+[Kaggle](https://www.kaggle.com/)
 
 Sito di apprendimento e esercizio per data science.
 
-[[cryptopals]{.underline}](https://cryptopals.com/)
+[cryptopals](https://cryptopals.com/)
 
 Sito di apprendimento ed esercizio per criptografia
 
-[[Guida per risolvere il cubo di
-Rubik]{.underline}](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
+[Guida per risolvere il cubo di
+Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
 
 Il metodo a strati, con particolare attenzione al terzo strato.
