@@ -1,5 +1,12 @@
 # Lista di risorse Gruppo "Scienza e Fisica"
 
+## Indice
+
+- [Riviste](#riviste)
+- [Manuali e lezioni](#manuali-e-lezioni)
+- [Libri](#libri)
+- [Siti](#siti)
+
 ## Riviste
 
 - [IEEE Spectrum](http://spctmog/)
@@ -67,5 +74,4 @@ algoritmi](https://visualgo.net/en)
 
 - [Guida per risolvere il cubo di
 Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
-
-> Il metodo a strati, con particolare attenzione al terzo strato.
+    > Il metodo a strati, con particolare attenzione al terzo strato.
