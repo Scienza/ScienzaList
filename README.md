@@ -1,4 +1,5 @@
 # Lista di risorse Gruppo "Scienza e Fisica"
+> [Gruppo Telegram](https://t.me/scienza)
 
 ## Indice
 
@@ -6,6 +7,8 @@
 - [Manuali e lezioni](#manuali-e-lezioni)
 - [Libri](#libri)
 - [Siti](#siti)
+- [Appunti](#appunti)
+    - [Appunti Matematica](#appunti-matematica)
 
 ## Riviste
 
@@ -75,3 +78,11 @@ algoritmi](https://visualgo.net/en)
 - [Guida per risolvere il cubo di
 Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
     > Il metodo a strati, con particolare attenzione al terzo strato.
+
+
+## Appunti
+- #### Appunti matematica
+    - [Analisi Funzionale](appunti/matematica/analisi_funzionale.pdf)
+        > di De Donato Paolo
+    - [Matrici lenti](appunti/matematica/matrici_lenti.pdf)
+        > di De Donato Paolo
