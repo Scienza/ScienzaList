@@ -70,7 +70,7 @@ algoritmi](https://visualgo.net/en)
     > Sito di apprendimento e esercizio per data science.
 
 - [cryptopals](https://cryptopals.com/)
-    > Sito di apprendimento ed esercizio per criptografia
+    > Sito di apprendimento ed esercizio per crittografia
 
 - [Guida per risolvere il cubo di
 Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
