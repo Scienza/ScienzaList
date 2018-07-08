@@ -79,6 +79,8 @@ algoritmi](https://visualgo.net/en)
 Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
     > Il metodo a strati, con particolare attenzione al terzo strato.
 
+- [Cut the Knot Math](https://www.cut-the-knot.org/)
+    > Giochi ed enigmi matematici 
 
 ## Appunti
 - #### Appunti matematica
