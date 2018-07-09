@@ -1,5 +1,5 @@
 # Lista di risorse Gruppo "Scienza e Fisica"
-> [Gruppo Telegram](https://t.me/scienza)
+Questa è la lista di risorse online per l'insegnamento delle scienze creata dal gruppo telegram [@Scienza](https://t.me/scienza). E' gradita la segnalazione di risorse in licenza di condivisione libera, tramite pull request o issue su questo repo.
 
 ## Indice
 
@@ -37,7 +37,7 @@ per studenti e interessati.
 - [MIT lectures](https://ocw.mit.edu/)
 
 - [Mega lista di corsi
-CS](https://medium.freecodecamp.com/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
+di informatica](https://medium.freecodecamp.com/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
 
 ## Libri
 
@@ -54,7 +54,7 @@ one](https://mitpress.mit.edu/books/being-no-one)
 ## Siti
 
 - [How to become a good theoretical
-physicist](https://www.staff.science.uu.nl/~gadda001/goodtheorist/)
+physicist](http://www.goodtheorist.science/)
     > Piano di studi per Fisica Teorica offerto da Gerard 't Hooft (con
 risorse, in inglese).
 
