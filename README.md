@@ -47,7 +47,10 @@ CS](https://medium.freecodecamp.com/438-free-online-programming-computer-science
 - [Being no
 one](https://mitpress.mit.edu/books/being-no-one)
     > Descrizione da aggiungere
-
+- [Openbooks](https://archive.parrotsec.org/parrot/misc/openbooks/) 
+    > Libri opensource di informatica: crittografia, networking, programmazione, sicurezza, ...
+- [All IT Ebooks](http://www.allitebooks.com/)
+    > Libri di informatica in formato ebook 
 ## Siti
 
 - [How to become a good theoretical
