@@ -70,7 +70,7 @@ statistica](http://students.brown.edu/seeing-theory/index.html)
 algoritmi](https://visualgo.net/en)
 
 - [Kaggle](https://www.kaggle.com/)
-    > Sito di apprendimento e esercizio per data science.
+    > Sito di apprendimento e esercizio per data science. Ci sono anche competizioni con premi e dataset pubblici.
 
 - [cryptopals](https://cryptopals.com/)
     > Sito di apprendimento ed esercizio per crittografia
