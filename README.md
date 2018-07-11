@@ -72,6 +72,8 @@ statistica](http://students.brown.edu/seeing-theory/index.html)
 - [Un sito di visualizzazione per imparare
 algoritmi](https://visualgo.net/en)
 
+- [Un sito di visualizzazione per imparare machine learning](http://www.r2d3.us/)
+
 - [Kaggle](https://www.kaggle.com/)
     > Sito di apprendimento e esercizio per data science. Ci sono anche competizioni con premi e dataset pubblici.
 
