@@ -58,6 +58,9 @@ physicist](http://www.goodtheorist.science/)
     > Piano di studi per Fisica Teorica offerto da Gerard 't Hooft (con
 risorse, in inglese).
 
+- [Learning Mathematical Philosophy](https://www.mcmp.philosophie.uni-muenchen.de/students/math/index.html)
+    > Materiale gratuito sui metodi matematico-logici e in generale formali per la filosofia.
+
 - [Online Mathematics
 Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
     > Una lista di libri di testo universitari pubblicamente disponibile su
