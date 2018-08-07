@@ -53,6 +53,7 @@ one](https://mitpress.mit.edu/books/being-no-one)
     > Libri di informatica in formato ebook 
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
     > Conosciuto anche come Wizard Book
+- [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html)
 ## Siti
 
 - [How to become a good theoretical
