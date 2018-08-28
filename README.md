@@ -61,6 +61,9 @@ physicist](http://www.goodtheorist.science/)
     > Piano di studi per Fisica Teorica offerto da Gerard 't Hooft (con
 risorse, in inglese).
 
+- [Tools of the theoretical physicist](http://www.matfys.lth.se/staff/Andrea.Idini/projects/tools/work_tools/)
+    > Strumenti informatici per il calcolo scientifico, di Andrea Idini
+
 - [Learning Mathematical Philosophy](https://www.mcmp.philosophie.uni-muenchen.de/students/math/index.html)
     > Materiale gratuito sui metodi matematico-logici e in generale formali per la filosofia.
 
