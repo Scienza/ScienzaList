@@ -95,7 +95,8 @@ Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
 
 - [Cut the Knot Math](https://www.cut-the-knot.org/)
     > Giochi ed enigmi matematici 
-
+- [Project Euler](https://projecteuler.net/)
+    > Problemi di matematica/programmazione con difficoltà crescente
 ## Appunti
 - #### Appunti matematica
     - [Analisi Funzionale](appunti/matematica/analisi_funzionale.pdf)
