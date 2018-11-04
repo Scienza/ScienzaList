@@ -97,6 +97,8 @@ Rubik](http://utenti.quipo.it/base5/cuborubik/cuborubik.htm)
     > Giochi ed enigmi matematici 
 - [Project Euler](https://projecteuler.net/)
     > Problemi di matematica/programmazione con difficoltà crescente
+- [JFLAP (download)](http://www.jflap.org/)
+    > Un programma multipiattaforma che permette di giochicchiare con automi e macchine di Turing. 
 ## Appunti
 - #### Appunti matematica
     - [Analisi Funzionale](appunti/matematica/analisi_funzionale.pdf)
