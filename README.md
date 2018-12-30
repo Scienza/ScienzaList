@@ -10,10 +10,10 @@ Questa è la lista di risorse online per l'insegnamento delle scienze creata dal
 - [Appunti](#appunti)
     - [Appunti Matematica](#appunti-matematica)
 
-## Riviste
-
 <details><summary>riviste</summary>
 <p>
+
+## Riviste
 
 - [IEEE Spectrum](http://spctmog/)
     > IEEE Spectrum è una rivista di news scientifiche e tecnologiche.
