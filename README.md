@@ -12,6 +12,9 @@ Questa è la lista di risorse online per l'insegnamento delle scienze creata dal
 
 ## Riviste
 
+<details><summary>riviste</summary>
+<p>
+
 - [IEEE Spectrum](http://spctmog/)
     > IEEE Spectrum è una rivista di news scientifiche e tecnologiche.
 
@@ -22,6 +25,9 @@ Astronomia](https://www.joomag.com/en/newsstand/coelum-astronomia/M0359960001450
 - [Asimmetrie](http://www.asimmetrie.it/)
     > Asimmetrie è la rivista semestrale di divulgazione dell'Istituto
 Nazionale di Fisica Nucleare.
+
+</p>
+</details>
 
 ## Manuali e lezioni
 
