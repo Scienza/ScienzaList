@@ -121,6 +121,7 @@ per studenti e interessati.
     > Learning and practicing cryptography.
 - [JFLAP (download)](http://www.jflap.org/)
     > Multiplatform program to play with automata and Turing machines.
+- [Advanced introduction to Mathematica](https://www.mathprogramming-intro.org)
 
 </p>
 </details>
