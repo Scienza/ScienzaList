@@ -19,10 +19,18 @@ The contribution with resources in commons licences is appreciated. Please use p
 
 - [IEEE Spectrum](http://spctmog/)
     > IEEE Spectrum is a magazine of scientific and technological news.
+- [Nature](https://www.nature.com) and [Science](http://www.sciencemag.org)
+    > Arguably, the two most prestigious scientific magazines, with some free content.
 
 ### Lectures
 
 - [MIT lectures](https://ocw.mit.edu/)
+
+### Websites
+
+- [arXiv](https://arxiv.org)
+    > All the updated research on several quantitative topics: mathematics, physics, computer science, quantitative economics and biology ... etc...
+- [US biotechnology information center](https://www.ncbi.nlm.nih.gov)
 
 </p>
 </details>
