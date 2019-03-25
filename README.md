@@ -90,7 +90,7 @@ Nazionale di Fisica Nucleare.
 
 ### Appunti
 
-- [Analisi Funzionale](appunti/matematica/analisi_funzionale.pdf) (IT)
+- [Analisi Funzionale](appunti/matematica/AnalisiFunzionale.pdf) (IT)
     > di De Donato Paolo
 - [Matrici lenti](appunti/matematica/matrici_lenti.pdf) (IT)
     > di De Donato Paolo
