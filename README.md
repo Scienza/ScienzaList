@@ -138,12 +138,15 @@ Nazionale di Fisica Nucleare.
 
 <details><summary>Squishy things</summary>
 <p>
+    
 ### Books
-- [Python for the life sciences*](https://pythonforthelifesciences.com/)
+    
+- [Python for the life sciences(*)](https://pythonforthelifesciences.com/)
     > Introduction to python for biology.
-- [Practical computing*](http://practicalcomputing.org)
+- [Practical computing(*)](http://practicalcomputing.org)
     > Upcoming book on computational biology.
+    
 </p>
 </details>
 
-* Not open/free
+(*) Not open/free
