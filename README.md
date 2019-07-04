@@ -59,6 +59,8 @@ Nazionale di Fisica Nucleare.
     > One of the best books of basic physics.
 - [Without air](http://www.withouthotair.com/)
     > Basics facts on climate change.
+- [The Nature of Code](https://natureofcode.com/book/chapter-9-the-evolution-of-code/)
+    > Book on complex systems with code examples.
 
 ### Websites
 
@@ -131,3 +133,17 @@ Nazionale di Fisica Nucleare.
 
 </p>
 </details>
+
+## Biology
+
+<details><summary>Squishy things</summary>
+<p>
+### Books
+- [Python for the life sciences*](https://pythonforthelifesciences.com/)
+    > Introduction to python for biology.
+- [Practical computing*](http://practicalcomputing.org)
+    > Upcoming book on computational biology.
+</p>
+</details>
+
+* Not open/free
