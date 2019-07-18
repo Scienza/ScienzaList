@@ -50,6 +50,8 @@ Nazionale di Fisica Nucleare.
 
 ### Lectures
 
+- [The theoretical minimum](http://theoreticalminimum.com)
+    > Collection of introductury lectures from Leonard Susskind, from Classical mechanics to statistical physics.
 - [PSI Lectures](http://www.perimeterinstitute.ca/training/perimeter-scholars-international/psi-lectures)
     > Lectures of Perimeter Scholars International courses. For students and others interested.
 
