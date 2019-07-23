@@ -172,15 +172,15 @@ Nazionale di Fisica Nucleare.
  
  ### Social
  - Reddit 
-    > https://www.reddit.com/user/pella86/m/scienceandbiology/
+    > [Multi-subreddit dedicated to biology](https://www.reddit.com/user/pella86/m/scienceandbiology/)
   
  - Telegram
-    > [Channel dedicated to biology](https://t.me/PellostyleBiology)
-    > [Channel dedicated to biology (deda?)](https://t.me/biology)
-    > [Entropy for life](https://t.me/entropyforlife)
+    > [Channel dedicated to biology](https://t.me/PellostyleBiology)  
+    > [Channel dedicated to biology (dead?)](https://t.me/biology)  
+    > [Entropy for life](https://t.me/entropyforlife)  
   
   - 4chan
-    > [4chan board dedicated to Science and Math](https://boards.4channel.org/sci/)
+    > [4chan board dedicated to Science and Math](https://boards.4channel.org/sci/)  
     
 
  
