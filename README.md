@@ -37,7 +37,7 @@ The contribution with resources in commons licences is appreciated. Please use p
 
 ## Physics
 
-<details><summary>The queen of sciences</summary>
+<details><summary>The boring of science</summary>
 <p>
 
 ### Magazines
@@ -77,7 +77,7 @@ Nazionale di Fisica Nucleare.
 
 ## Mathematics
 
-<details><summary>Where it all started</summary>
+<details><summary>The cryptic science</summary>
 <p>
 
 ### Websites
@@ -138,16 +138,52 @@ Nazionale di Fisica Nucleare.
 
 ## Biology
 
-<details><summary>Squishy things</summary>
+<details><summary>The most entertaining science</summary>
 <p>
     
 ### Books
+- Campbell, Biology, annual edition
+    > basic introduction to biology used in many university in the general biology course
+- Voet, Voet, Pratt, Biochmistry
+    > the bible of biochemistry
+- Alberts, Molecular Biology of the Cell
+- Kuby, Immunology
+- Brock, Microbiology
     
 - [Python for the life sciences(*)](https://pythonforthelifesciences.com/)
     > Introduction to python for biology.
 - [Practical computing(*)](http://practicalcomputing.org)
     > Upcoming book on computational biology.
+ 
+ ### Journals
+ - [Nature](https://www.nature.com/)
+ - [Science](https://www.sciencemag.org/)
+ - [Cell](https://www.cell.com/)
+ - [PNAS](https://www.pnas.org/)
+ - [Plos Biolgy](https://journals.plos.org/plosbiology/)
+ 
+ 
+ ### Websites
+ - [Pubmed: huge database of medical and biological papers](https://www.ncbi.nlm.nih.gov/pubmed/)
+ - [BioRxiv](https://www.biorxiv.org/)
+ - [Protein Data Bank](https://www.rcsb.org/)
+ - [Sequence alignment tools](https://www.genome.jp/tools-bin/clustalw)
+ - [Protein protein interactions](https://string-db.org/)
+ 
+ ### Social
+ - Reddit 
+    > https://www.reddit.com/user/pella86/m/scienceandbiology/
+  
+ - Telegram
+    > [Channel dedicated to biology](https://t.me/PellostyleBiology)
+    > [Channel dedicated to biology (deda?)](https://t.me/biology)
+    > [Entropy for life](https://t.me/entropyforlife)
+  
+  - 4chan
+    > [4chan board dedicated to Science and Math](https://boards.4channel.org/sci/)
     
+
+ 
 </p>
 </details>
 
