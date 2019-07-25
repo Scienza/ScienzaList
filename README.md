@@ -148,6 +148,27 @@ Nazionale di Fisica Nucleare.
 - [Practical computing(*)](http://practicalcomputing.org)
     > Upcoming book on computational biology.
     
+### Books
+ - Campbell, Biology, annual edition (*)
+     > basic introduction to biology used in many university in the general biology course
+ - Voet, Voet, Pratt, Biochmistry (*)
+     > the bible of biochemistry
+ - Alberts, Molecular Biology of the Cell (*)
+ - Kuby, Immunology (*)
+ - Brock, Microbiology (*)
+
+ ### Journals
+  - [Cell](https://www.cell.com/)
+  - [PNAS](https://www.pnas.org/)
+  - [Plos Biolgy](https://journals.plos.org/plosbiology/)
+
+ ### Websites
+  - [Pubmed: huge database of medical and biological papers](https://www.ncbi.nlm.nih.gov/pubmed/)
+  - [BioRxiv](https://www.biorxiv.org/)
+  - [Protein Data Bank](https://www.rcsb.org/)
+  - [Sequence alignment tools](https://www.genome.jp/tools-bin/clustalw)
+  - [Protein protein interactions](https://string-db.org/)
+
 </p>
 </details>
 
