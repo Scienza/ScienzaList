@@ -45,8 +45,7 @@ The contribution with resources in commons licences is appreciated. Please use p
 - [Coelum Astronomia](https://www.joomag.com/en/newsstand/coelum-astronomia/M0359960001450695574) (IT)
     > Coelum Astronomia è una rivista mensile di divulgazione astronomica.
 - [Asimmetrie](http://www.asimmetrie.it/) (IT)
-    > Asimmetrie è la rivista semestrale di divulgazione dell'Istituto
-Nazionale di Fisica Nucleare.
+    > Asimmetrie è la rivista semestrale di divulgazione dell'Istituto Nazionale di Fisica Nucleare.
 
 ### Lectures
 
@@ -55,15 +54,6 @@ Nazionale di Fisica Nucleare.
 - [PSI Lectures](http://www.perimeterinstitute.ca/training/perimeter-scholars-international/psi-lectures)
     > Lectures of Perimeter Scholars International courses. For students and others interested.
 
-### Books
-
-- [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
-    > One of the best books of basic physics.
-- [Without air](http://www.withouthotair.com/)
-    > Basics facts on climate change.
-- [The Nature of Code](https://natureofcode.com/book/chapter-9-the-evolution-of-code/)
-    > Book on complex systems with code examples.
-
 ### Websites
 
 - [How to become a good theoretical physicist](http://www.goodtheorist.science/)
@@ -71,6 +61,16 @@ Nazionale di Fisica Nucleare.
 - [Tools of the theoretical physicist](http://www.matfys.lth.se/staff/Andrea.Idini/projects/tools/work_tools/)
     > Tools for scientific computing, of Andrea Idini
 - [Map of modern theories of physics](https://www.quantamagazine.org/20150803-physics-theories-map/)
+- [Classical Mechanics (J. Baez)[http://math.ucr.edu/home/baez/classical/]
+
+### Online Books
+
+- [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
+    > One of the best books of basic physics.
+- [Without air](http://www.withouthotair.com/)
+    > Basics facts on climate change.
+- [The Nature of Code](https://natureofcode.com/book/chapter-9-the-evolution-of-code/)
+    > Book on complex systems with code examples.
 
 </p>
 </details>
@@ -111,16 +111,6 @@ Nazionale di Fisica Nucleare.
 
 - [Huge list of computer science classes](https://medium.freecodecamp.com/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
 
-### Books
-
-- [Openbooks](https://archive.parrotsec.org/parrot/misc/openbooks/)
-    > Opensource library on computer science: Cryptography, networking, programming, ...
-- [All IT Ebooks](http://www.allitebooks.com/)
-    > IT books in e-book friendly format.
-- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
-    > a.k.a. Wizard Book
-- [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html)
-
 ### Websites
 
 - [Visualization of common algorithms](https://visualgo.net/en)
@@ -133,6 +123,16 @@ Nazionale di Fisica Nucleare.
     > Multiplatform application to play with automata and Turing machines.
 - [Advanced introduction to Mathematica](https://www.mathprogramming-intro.org)
 
+### Online Books
+
+- [Openbooks](https://archive.parrotsec.org/parrot/misc/openbooks/)
+    > Opensource library on computer science: Cryptography, networking, programming, ...
+- [All IT Ebooks](http://www.allitebooks.com/)
+    > IT books in e-book friendly format.
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+    > a.k.a. Wizard Book
+- [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html)
+
 </p>
 </details>
 
@@ -141,22 +141,6 @@ Nazionale di Fisica Nucleare.
 <details><summary>Squishy things</summary>
 <p>
     
-### Books
-    
-- [Python for the life sciences(*)](https://pythonforthelifesciences.com/)
-    > Introduction to python for biology.
-- [Practical computing(*)](http://practicalcomputing.org)
-    > Upcoming book on computational biology.
-    
-### Books
- - Campbell, Biology, annual edition (*)
-     > basic introduction to biology used in many university in the general biology course
- - Voet, Voet, Pratt, Biochmistry (*)
-     > the bible of biochemistry
- - Alberts, Molecular Biology of the Cell (*)
- - Kuby, Immunology (*)
- - Brock, Microbiology (*)
-
  ### Journals
   - [Cell](https://www.cell.com/)
   - [PNAS](https://www.pnas.org/)
@@ -168,6 +152,22 @@ Nazionale di Fisica Nucleare.
   - [Protein Data Bank](https://www.rcsb.org/)
   - [Sequence alignment tools](https://www.genome.jp/tools-bin/clustalw)
   - [Protein protein interactions](https://string-db.org/)
+
+### Online Books
+    
+- [Python for the life sciences(*)](https://pythonforthelifesciences.com/)
+    > Introduction to python for biology.
+- [Practical computing(*)](http://practicalcomputing.org)
+    > Upcoming book on computational biology.
+    
+### Offline Books (*)
+ - Campbell, Biology, annual edition
+     > basic introduction to biology used in many university in the general biology course
+ - Voet, Voet, Pratt, Biochmistry
+     > the bible of biochemistry
+ - Alberts, Molecular Biology of the Cell
+ - Kuby, Immunology
+ - Brock, Microbiology
 
 </p>
 </details>
