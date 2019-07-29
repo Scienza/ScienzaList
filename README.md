@@ -72,6 +72,15 @@ The contribution with resources in commons licences is appreciated. Please use p
 - [The Nature of Code](https://natureofcode.com/book/chapter-9-the-evolution-of-code/)
     > Book on complex systems with code examples.
 
+### Offline Books (*)
+
+- [Landau's course in theoretical physics](https://en.wikipedia.org/wiki/Course_of_Theoretical_Physics)
+    > Legendary series of books. Some of these are a little dated, but might represent the best compendium we have to date from beginner to advanced level physics. Some of the books are browsable [at the internet archive](https://archive.org/search.php?query=creator:%22L.D.+Landau+%26+E.M.+Lifshitz%22).
+- {Modern, Advanced} quantum mechanics, J.J. Sakurai
+    > Staple of approach to quantum mechanics.
+- The quantum theory of fields, S. Weinberg
+    > Advanced book on QFT.
+
 </p>
 </details>
 
@@ -132,6 +141,11 @@ The contribution with resources in commons licences is appreciated. Please use p
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
     > a.k.a. Wizard Book
 - [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/2e/html/ArtInt2e.html)
+
+### Offline Books
+
+- [The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming), D. Knuth
+    > The volume series on theory of algorithms.
 
 </p>
 </details>
