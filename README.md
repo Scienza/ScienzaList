@@ -176,14 +176,36 @@ The contribution with resources in commons licences is appreciated. Please use p
     > Upcoming book on computational biology.
     
 ### Offline Books (*)
+Biology
  - Campbell, Biology, annual edition
      > basic introduction to biology used in many university in the general biology course
- - Voet, Voet, Pratt, Biochmistry
+ 
+ Biochemistry
+ - Nelson DL e Cox MM – I Principi di Biochimica di Lehninger – VI edizione Zanichelli (ed.)
+ - Voet, Voet, Pratt, Biochemistry
      > the bible of biochemistry
+ 
+ Molecular biology
  - Alberts, Molecular Biology of the Cell
+ 
+ Immunology
  - Kuby, Immunology
+ 
+ Microbiology
  - Brock, Microbiology
-
+ - Microbiologia Generale - Prescott. M. Willey, M. Sherwood, M. Woolverton. Settima edizione vol. 1. Ed. McGraw-Hill
+ 
+ Marine biology
+ - BIOLOGIA MARINA: Biodiversità e funzionamento degli ecosistemi marini. Roberto Danovaro, CittaStudi 
+ - BIOLOGIA MARINA Peter Castro, Michael E. Huber, Curatore edizione italiana: Roberto Sandulli, Giuseppe Giaccone, Angelo.  Tursi - Mc Graw-Hill
+ 
+ Ecology
+ - Ecologia-Cain, Bowman, Hacker, PICCIN;
+ - Ecologia generale-Bullini, Pignatti, Virzo, UTET;
+ - Fondamenti di ecologia-Odum Barrett (III edizione), PICCIN;
+ - Elementi di Ecologia-Smith and Smith, Pearson;
+ 
+ 
 </p>
 </details>
 
