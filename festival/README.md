@@ -28,3 +28,12 @@ Cose da leggere su teoria delle categorie e:
 - filosofia (e logica modale/temporale) https://github.com/tetrapharmakon/yoneda-ontology https://arxiv.org/abs/1710.10258
 - programmazione funzionale https://arxiv.org/abs/2001.07488
 - teoria della complessità https://arxiv.org/abs/1208.5205 https://arxiv.org/abs/1402.5687
+
+### Daniele Visioni - Ingegneria Climatica - Una cura per i cambiamenti climatici?
+
+Approfondimenti sui metodi descritti:
+
+- Report IPCC 2018 sull'impatto di un aumento di temperatura di 1.5 e 2 °C https://www.ipcc.ch/sr15/
+- Metodi di Carbon Dioxide Removal http://nas-sites.org/dels/studies/cdr/
+- Metodi di Solar Radiation Management (scienza, governance, etc.) https://keith.seas.harvard.edu/files/tkg/files/shepherd_et_al._-_2009_-_geoengineering_the_climate_-_science_governance_a.pdf
+- Metodi di Solar Radiation Management (review scientifica) https://www.atmos-chem-phys.net/17/3879/2017/acp-17-3879-2017.html
