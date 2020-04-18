@@ -29,6 +29,10 @@ Cose da leggere su teoria delle categorie e:
 - programmazione funzionale https://arxiv.org/abs/2001.07488
 - teoria della complessità https://arxiv.org/abs/1208.5205 https://arxiv.org/abs/1402.5687
 
+### Mauro Pella - Microscopia Crioelettronica
+
+La presentazione [qua](./MauroPella.pdf)
+
 ### Daniele Visioni - Ingegneria Climatica - Una cura per i cambiamenti climatici?
 
 Approfondimenti sui metodi descritti:
